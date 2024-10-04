@@ -3,8 +3,11 @@ package Week_06;
 public class Task01 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		Car myCar = new Car("포르쉐");
+		Car youCar = new Car("벤츠");
+		
+		myCar.run();
+		youCar.run();
 	}
 
 }
