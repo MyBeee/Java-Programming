@@ -2,7 +2,7 @@ package Week_06_02_package1;
 
 public class B_2 {
 	public void method() {
-		A_2 a = new A();
+		A_2 a = new A_2();
 		
 		a.field1 = 1;
 		a.field2 = 1;

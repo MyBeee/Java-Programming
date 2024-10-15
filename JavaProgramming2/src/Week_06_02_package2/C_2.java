@@ -3,7 +3,7 @@ package Week_06_02_package2;
 import Week_06_02_package1.*;
 
 public class C_2 {
-	public C() {
+	public C_2() {
 		A_2 a = new A_2();
 		
 		a.field1 = 1;
