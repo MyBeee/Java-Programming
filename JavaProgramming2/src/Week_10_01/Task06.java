@@ -10,9 +10,9 @@ public class Task06 {
 		service.defaultMethod2();
 		System.out.println();
 		
-		service.staticMethod1();
+		Service.staticMethod1();
 		System.out.println();
-		service.staticMethod2();
+		Service.staticMethod2();
 		System.out.println();
 	}
 
