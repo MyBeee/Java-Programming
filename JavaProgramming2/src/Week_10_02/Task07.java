@@ -14,5 +14,6 @@ public class Task07 {
 		if(vehicle instanceof Bus_2 bus) {
 			bus.checkFare();
 		}
+		vehicle.run();
 	}
 }
